@@ -1,0 +1,393 @@
+[
+    {
+        "nombre": "BMW iX1",
+        "precio_desde": "49.800€",
+        "categoria": "SUV",
+        "descripcion": "SUV eléctrico compacto con equilibrio entre autonomía, maniobrabilidad urbana y equipamiento tecnológico premium.",
+        "especificaciones": {
+            "motor": "Eléctrico",
+            "potencia": "204–313 CV",
+            "autonomia_WLTP": "417–473 km",
+            "traccion": "Delantera o xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/ix1/2025/gallery/exterior/01_BMW-iX1-Exterior.jpg",
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/ix1/2025/gallery/interior/01_BMW-iX1-Interior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete Confort Premium",
+            "Tecnología Driving Assistant",
+            "Batería de alta capacidad",
+            "Cargador a bordo de 11 kW"
+        ]
+    },
+    {
+        "nombre": "BMW iX2",
+        "precio_desde": "51.300€",
+        "categoria": "SUV",
+        "descripcion": "SUV compacto 100% eléctrico con diseño dinámico y rendimiento equilibrado para uso urbano y viajes.",
+        "especificaciones": {
+            "motor": "Eléctrico",
+            "potencia": "204–313 CV",
+            "autonomia_WLTP": "418–478 km",
+            "traccion": "Delantera o xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/ix2/2025/gallery/exterior/01_BMW-iX2-Exterior.jpg",
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/ix2/2025/gallery/interior/01_BMW-iX2-Interior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete Sport M",
+            "Paquete Asistencia Conducción Plus",
+            "Techo panorámico",
+            "Sistema de sonido Harman Kardon"
+        ]
+    },
+    {
+        "nombre": "BMW iX3",
+        "precio_desde": "69.900€",
+        "categoria": "SUV",
+        "descripcion": "SUV 100% eléctrico de tamaño medio con autonomía elevada, confort y tecnología avanzada de asistencia. :contentReference[oaicite:2]{index=2}",
+        "especificaciones": {
+            "motor": "Eléctrico",
+            "potencia": "469 CV",
+            "autonomia_WLTP": "Hasta 805 km",
+            "traccion": "xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/x-series/ix3/2025/gallery/exterior/01_BMW-iX3-Exterior.jpg",
+            "https://www.bmw.es/content/dam/bmw/common/all-models/x-series/ix3/2025/gallery/interior/01_BMW-iX3-Interior.jpg"
+        ],
+        "equipamientos": [
+            "Head‑Up Display",
+            "Asistente de aparcamiento automático",
+            "Paquete M Sport",
+            "Iluminación adaptativa láser BMW"
+        ]
+    },
+    {
+        "nombre": "BMW iX",
+        "precio_desde": "88.700€",
+        "categoria": "SUV",
+        "descripcion": "SUV eléctrico grande con tecnología avanzada, gran autonomía WLTP y gran nivel de confort. :contentReference[oaicite:3]{index=3}",
+        "especificaciones": {
+            "motor": "Eléctrico",
+            "potencia": "408–659 CV",
+            "autonomia_WLTP": "600–701 km",
+            "traccion": "Total xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/ix/2025/gallery/exterior/01_BMW-iX-Exterior.jpg",
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/ix/2025/gallery/interior/01_BMW-iX-Interior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete Confort Plus",
+            "Suspensión adaptativa Executive Drive Pro",
+            "Control de crucero activo con Stop & Go",
+            "Cargador ultra‑rápido 150 kW"
+        ]
+    },
+    {
+        "nombre": "BMW i4 Gran Coupé",
+        "precio_desde": "58.650€",
+        "categoria": "Gran Coupé",
+        "descripcion": "Gran coupé 100% eléctrico con diseño deportivo y autonomía elevada. :contentReference[oaicite:4]{index=4}",
+        "especificaciones": {
+            "motor": "Eléctrico",
+            "potencia": "286–601 CV",
+            "autonomia_WLTP": "514–613 km",
+            "traccion": "Trasera o xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/i4/2025/gallery/exterior/01_BMW-i4-Exterior.jpg",
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/i4/2025/gallery/interior/01_BMW-i4-Interior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete M Sport Pro",
+            "Asistente de conducción en autopista",
+            "Sistema de sonido premium",
+            "Asientos deportivos eléctricos"
+        ]
+    },
+    {
+        "nombre": "BMW i5",
+        "precio_desde": "77.050€",
+        "categoria": "Berlina",
+        "descripcion": "Berlina eléctrica con gran autonomía y confort de marcha. :contentReference[oaicite:5]{index=5}",
+        "especificaciones": {
+            "motor": "Eléctrico",
+            "potencia": "340–601 CV",
+            "autonomia_WLTP": "540–627 km",
+            "traccion": "Trasera o xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/i5/2025/gallery/exterior/01_BMW-i5-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Driving Assistant Professional",
+            "Paquete Luxury Interior",
+            "Ambient Lights",
+            "Head‑Up Display"
+        ]
+    },
+    {
+        "nombre": "BMW i5 Touring",
+        "precio_desde": "79.650€",
+        "categoria": "Touring",
+        "descripcion": "Versión familiar del i5 con mayor espacio de carga y versatilidad. :contentReference[oaicite:6]{index=6}",
+        "especificaciones": {
+            "motor": "Eléctrico",
+            "potencia": "340–601 CV",
+            "autonomia_WLTP": "495–598 km",
+            "traccion": "Trasera o xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/i5-touring/2025/gallery/exterior/01_BMW-i5-Touring-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete Touring Comfort",
+            "Control crucero adaptativo",
+            "Techo panorámico",
+            "Asientos traseros calefactados"
+        ]
+    },
+    {
+        "nombre": "BMW i7",
+        "precio_desde": "116.000€",
+        "categoria": "Berlina",
+        "descripcion": "Berlina eléctrica de lujo con tecnología de primera clase y confort superior. :contentReference[oaicite:7]{index=7}",
+        "especificaciones": {
+            "motor": "Eléctrico",
+            "potencia": "455–659 CV",
+            "autonomia_WLTP": "589–624 km",
+            "traccion": "xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/i-series/i7/2025/gallery/exterior/01_BMW-i7-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Executive Lounge Seating",
+            "Laserlight adapative headlights",
+            "Bowers & Wilkins Diamond Audio",
+            "Massage seats con ventilación"
+        ]
+    },
+    {
+        "nombre": "BMW Serie 1",
+        "precio_desde": "35.150€",
+        "categoria": "Compacto",
+        "descripcion": "Hatchback compacto premium con equilibrio entre agilidad urbana y confort. :contentReference[oaicite:8]{index=8}",
+        "especificaciones": {
+            "motor": "Gasolina/Diésel/Híbrido enchufable",
+            "potencia": "116–306 CV",
+            "traccion": "Delantera",
+            "transmision": "Automática/Manual"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/1-series/2025/gallery/exterior/01_BMW-Serie1-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete Sport Line",
+            "Asistente de aparcamiento",
+            "ConnectedDrive Services",
+            "Climatizador bizona"
+        ]
+    },
+    {
+        "nombre": "BMW Serie 3 Berlina",
+        "precio_desde": "60.450€",
+        "categoria": "Berlina",
+        "descripcion": "Berlina de serie media con dinamismo y confort característicos de BMW. :contentReference[oaicite:9]{index=9}",
+        "especificaciones": {
+            "motor": "Gasolina/Diésel/Híbrido enchufable",
+            "potencia": "150–374 CV",
+            "traccion": "Trasera o xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/3-series/2025/gallery/exterior/01_BMW-Serie3-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete Luxury Line",
+            "Driving Assistant Plus",
+            "Ambient Lights",
+            "Asientos deportivos"
+        ]
+    },
+    {
+        "nombre": "BMW Serie 3 Touring",
+        "precio_desde": "64.950€",
+        "categoria": "Touring",
+        "descripcion": "Familiar de la Serie 3 con mayor espacio de carga y versatilidad. :contentReference[oaicite:10]{index=10}",
+        "especificaciones": {
+            "motor": "Gasolina/Diésel/Híbrido enchufable",
+            "potencia": "150–374 CV",
+            "traccion": "Trasera o xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/3-series/2025/gallery/exterior/01_BMW-Serie3-Touring-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete Touring Line",
+            "Sistema de navegación GPS",
+            "Asistente de ángulo muerto",
+            "Asientos traseros abatibles"
+        ]
+    },
+    {
+        "nombre": "BMW Serie 5 Berlina",
+        "precio_desde": "72.650€",
+        "categoria": "Berlina",
+        "descripcion": "Berlina ejecutiva con confort premium y eficientes motores híbridos o de combustión. :contentReference[oaicite:11]{index=11}",
+        "especificaciones": {
+            "motor": "Gasolina/Diésel/Híbrido enchufable",
+            "potencia": "184–462 CV",
+            "traccion": "Trasera o xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/5-series/2025/gallery/exterior/01_BMW-Serie5-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Driving Assistant Professional",
+            "Executive Lounge Seats",
+            "HUD Display",
+            "Cámara 360°"
+        ]
+    },
+    {
+        "nombre": "BMW X1",
+        "precio_desde": "56.600€",
+        "categoria": "SUV",
+        "descripcion": "SUV compacto versátil con opciones híbridas enchufables. :contentReference[oaicite:12]{index=12}",
+        "especificaciones": {
+            "motor": "Gasolina/Diésel/Híbrido enchufable",
+            "potencia": "136–240 CV",
+            "traccion": "Trasera o xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/x1/2025/gallery/exterior/01_BMW-X1-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete xLine",
+            "Climatizador automático",
+            "Sistema de infoentretenimiento",
+            "Asistente de frenado activo"
+        ]
+    },
+    {
+        "nombre": "BMW X3",
+        "precio_desde": "67.300€",
+        "categoria": "SUV",
+        "descripcion": "SUV mediano con motores eficientes e híbridos enchufables disponibles. :contentReference[oaicite:13]{index=13}",
+        "especificaciones": {
+            "motor": "Gasolina/Diésel/Híbrido enchufable",
+            "potencia": "150–400 CV",
+            "traccion": "xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/x3/2025/gallery/exterior/01_BMW-X3-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete M Sport",
+            "Live Cockpit Pro",
+            "Asientos calefactados",
+            "Control crucero adaptativo"
+        ]
+    },
+    {
+        "nombre": "BMW X5",
+        "precio_desde": "104.600€",
+        "categoria": "SUV",
+        "descripcion": "SUV grande con versiones híbridas enchufables y alto nivel de equipamiento. :contentReference[oaicite:14]{index=14}",
+        "especificaciones": {
+            "motor": "Gasolina/Diésel/Híbrido enchufable",
+            "potencia": "245–530 CV",
+            "traccion": "xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/x5/2025/gallery/exterior/01_BMW-X5-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete xOff‑Road",
+            "Paquete Luxury Seating",
+            "Head‑Up Display",
+            "Asistente de tráfico cruzado"
+        ]
+    },
+    {
+        "nombre": "BMW XM",
+        "precio_desde": "198.400€",
+        "categoria": "SUV",
+        "descripcion": "SUV híbrido enchufable de altas prestaciones, deportivo y con lujo destacado. :contentReference[oaicite:15]{index=15}",
+        "especificaciones": {
+            "motor": "Híbrido enchufable V8",
+            "potencia": "650–748 CV",
+            "traccion": "Total xDrive",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/xm/2025/gallery/exterior/01_BMW-XM-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete M Performance",
+            "Suspensión activa",
+            "Sistema de sonido Bowers & Wilkins",
+            "Asientos deportivos confort"
+        ]
+    },
+    {
+        "nombre": "BMW Serie 2 Active Tourer",
+        "precio_desde": "51.500€",
+        "categoria": "Monovolumen",
+        "descripcion": "Familiar compacto con versiones híbridas enchufables. :contentReference[oaicite:16]{index=16}",
+        "especificaciones": {
+            "motor": "Gasolina/Híbrido enchufable",
+            "potencia": "136–245 CV",
+            "traccion": "Delantera",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/2-series-active-tourer/2025/gallery/exterior/01_BMW-2-Active-Tourer-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete Comfort Plus",
+            "Asistente de mantenimiento de carril",
+            "Sensores de aparcamiento delanteros y traseros",
+            "Cámara de marcha atrás"
+        ]
+    },
+    {
+        "nombre": "BMW Z4 Roadster",
+        "precio_desde": "60.500€",
+        "categoria": "Cabrio",
+        "descripcion": "Descapotable deportivo con diseño clásico y tecnologías actuales. :contentReference[oaicite:17]{index=17}",
+        "especificaciones": {
+            "motor": "Gasolina",
+            "potencia": "197–374 CV",
+            "traccion": "Trasera",
+            "transmision": "Automática"
+        },
+        "imagenes": [
+            "https://www.bmw.es/content/dam/bmw/common/all-models/z4/2025/gallery/exterior/01_BMW-Z4-Exterior.jpg"
+        ],
+        "equipamientos": [
+            "Paquete Sport",
+            "Suspensión adaptativa",
+            "Asientos calefactados",
+            "Conectividad BMW Live Cockpit"
+        ]
+    }
+]
