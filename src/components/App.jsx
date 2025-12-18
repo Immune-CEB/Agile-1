@@ -1,4 +1,5 @@
 import "../css/App.css"
+import coches from "../coches.json"
 
 function App() {
 
