@@ -5,9 +5,12 @@ function Detalles() {
         <div>
             {coches.map((coche, index) => (
                 <div key={index}>
-                    <h2>{coche.nombre}</h2>
+                    <h2>{coche.nombre} - {coche.precio_desde}</h2>
+                    <p>{coche.categoria}</p>
                     <p>{coche.descripcion}</p>
-                    <p>Precio desde: {coche.precio_desde}</p>
+                    <p>Especificaciones: {coche.especificaciones}</p>
+                    <p>Equipamentos: {coche.equipamientos}</p>
+                    <p>{coche.imagenes}</p>
                 </div>
             ))}
         </div>
