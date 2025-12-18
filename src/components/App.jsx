@@ -1,12 +1,17 @@
 import "../css/App.css"
 import coches from "../coches.json"
 import Header from "./Header"
+import { Route, Routes } from "react-router-dom"
+import Login from "./Login"
 
 function App() {
 
   return (
     <>
     <Header />
+    <Routes>
+      <Route path="/login" element={<Login/>}/>
+    </Routes>
       <label for="inputTipo">Tipo: </label>
       <select name="" id="inputTipo">
         <option value="">Nada</option>
