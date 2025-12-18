@@ -23,7 +23,7 @@ function Filtro() {
         <option value="">Nada</option>
         <option value="SUV">SUV</option>
         <option value="Berlina">Berlina</option>
-        <option value="Tourin">Touring</option>
+        <option value="Touring">Touring</option>
         <option value="Gran Coupé">Gran Coupé</option>
         <option value="Compacto">Compacto</option>
         <option value="Monovolumen">Monovolumen</option>
