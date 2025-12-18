@@ -34,6 +34,7 @@ function App() {
       <label className="grid">
         {newCoches.map((coche, index) => (
           <section className="card" key={index}>
+            <img src={coche.imagenes[0]} alt={coche.nombre} />
             <h3 className="name">{coche.nombre}</h3>
             <p className="precio">{coche.precio_desde}</p>
             <p className="categoria">{coche.categoria}</p>
