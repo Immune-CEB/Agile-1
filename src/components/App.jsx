@@ -1,6 +1,7 @@
 import { useState } from "react"
 import "../css/App.css"
 import coches from "../coches.json"
+import Header from "./Header"
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
   }
   return (
     <>
+      <Header />
       <label for="inputTipo">Tipo: </label>
       <select name="" id="inputTipo" onChange={handleChange} >
         <option value="">Nada</option>
