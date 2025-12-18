@@ -6,6 +6,7 @@ function Filtro() {
   const [newCoches, changeCoches] = useState(coches)
 
   function handleChange(ev) {
+    console.log(ev)
     if (ev.target.value === "") {
       changeCoches(coches)
     }
@@ -17,8 +18,8 @@ function Filtro() {
 
   return (
     <>
-      <label for="inputTipo" onChange={handleChange}>Tipo: </label>
-      <select name="" id="inputTipo">
+      <label for="inputTipo" >Tipo: </label>
+      <select name="" id="inputTipo" onChange={handleChange}>
         <option value="">Nada</option>
         <option value="SUV">SUV</option>
         <option value="Berlina">Berlina</option>
