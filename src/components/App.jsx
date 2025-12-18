@@ -1,9 +1,11 @@
 import "../css/App.css"
+import Header from "./Header"
 
 function App() {
 
   return (
     <>
+    <Header />
       <label for="inputTipo">Tipo: </label>
       <select name="" id="inputTipo">
         <option value="">Nada</option>
