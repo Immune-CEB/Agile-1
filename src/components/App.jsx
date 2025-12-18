@@ -21,7 +21,7 @@ function App() {
         <option value="Gran Coupé">Gran Coupé</option>
         <option value="Compacto">Compacto</option>
         <option value="Monovolumen">Monovolumen</option>
-        <option value="Cabrio">Cabrio</option>
+        <option value="Cabrio">Cabrioo</option>
       </select>
 
       <label className="grid">
