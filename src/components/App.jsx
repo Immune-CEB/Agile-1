@@ -1,9 +1,12 @@
 import "../css/App.css"
+import coches from "../coches.json"
+import Header from "./Header"
 
 function App() {
 
   return (
     <>
+    <Header />
       <label for="inputTipo">Tipo: </label>
       <select name="" id="inputTipo">
         <option value="">Nada</option>
