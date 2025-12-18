@@ -17,14 +17,14 @@ const Login = () => {
         <label htmlFor="username">Nombre de usuario</label>
         <input
           type="text"
-          placeholder="Email or Telefono"
+          placeholder="Email o Telefono"
           id="username"
         />
 
         <label htmlFor="password">Contraseña</label>
         <input
           type="password"
-          placeholder="Password"
+          placeholder="Contraseña"
           id="password"
         />
 
