@@ -6,7 +6,7 @@ export default function Header() {
   return (
          <nav className="menu">
         <ul>
-        <img className="logo" src="https://e7.pngegg.com/pngimages/285/461/png-clipart-bmw-m-car-bmw-5-series-logo-bmw-emblem-trademark.png" alt="Logo Fiat"/>
+        <img className="logo" src="src\images\bmw-white-logo-hd-png-701751694708574rsodsw0tk5.png" alt="Logo BMW"/>
         <div className="title">Concesionario BMW</div>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/About">Sobre nosotros</Link></li>

@@ -1,4 +1,4 @@
-/* Configuración Global */
+
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +12,6 @@ body {
   line-height: 1.6;
 }
 
-/* Navegación */
 nav {
   display: flex;
   justify-content: space-between;
@@ -31,7 +30,7 @@ ul {
   padding: 0;
   margin: 0;
   gap: 20px;
-  width: 100%; /* Permite que la lista use el espacio disponible */
+  width: 100%; 
 }
 
 li {
@@ -46,19 +45,15 @@ a {
 .logo {
   width: 40px;
   height: auto;
-  margin-right: 20px; /* Separación mínima del primer link */
+  margin-right: 20px; 
 }
 
-/* CORRECCIÓN AQUÍ: 
-   Usamos margin-left: auto para empujar este elemento 
-   y todo lo que venga después hacia la derecha. */
 .title {
   display: flex;
   gap: 20px;
   margin-left: auto; 
 }
 
-/* Grid de Productos */
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -103,5 +98,46 @@ a {
 .categoria {
   margin: 0 15px 15px 15px;
   font-size: 0.9rem;
-  color: #666; /* Corregido el color hexadecimal */
+  color: #666;
+}
+.filter-section {
+  padding: 20px 4%;
+  margin: 20px 4%;
+  background: rgba(255, 255, 255, 0.95); 
+  border-radius: 12px;
+  
+  /* ESTO ES LO QUE CENTRA LOS ELEMENTOS */
+  display: flex;
+  align-items: center; /* Centrado vertical absoluto */
+  justify-content: flex-start; /* Alineados a la izquierda */
+  gap: 15px;
+  
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.filter-section label {
+  font-weight: 700;
+  color: #1a1a1a;
+  font-size: 1rem;
+  margin: 0; /* Eliminamos márgenes que puedan empujar el texto hacia abajo */
+  line-height: 1; /* Asegura que el alto del texto sea el de su fuente */
+  display: flex;
+  align-items: center;
+}
+
+.filter-section select {
+  padding: 10px 40px 10px 15px;
+  border-radius: 8px;
+  border: 2px solid rgba(35, 30, 30, 0.95);
+  background-color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #333;
+  cursor: pointer;
+  outline: none;
+  
+  /* Evitamos que el navegador añada alturas extrañas */
+  height: 45px; 
+  display: flex;
+  align-items: center;
 }

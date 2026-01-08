@@ -2,34 +2,35 @@ import React, { useState } from 'react'
 import coches from "../coches.json"
 
 function Filtro() {
-
   const [newCoches, changeCoches] = useState(coches)
 
   function handleChange(ev) {
-    if (ev.target.value === "") {
+    const valor = ev.target.value
+    if (valor === "") {
       changeCoches(coches)
-    }
-    else {
-      const filteredCoches = coches.filter(coche => (coche.categoria === ev.target.value))
+    } else {
+      const filteredCoches = coches.filter(coche => coche.categoria === valor)
       changeCoches(filteredCoches)
     }
   }
 
   return (
     <>
-      <label for="inputTipo" onChange={handleChange}>Tipo: </label>
-      <select name="" id="inputTipo">
-        <option value="">Nada</option>
-        <option value="SUV">SUV</option>
-        <option value="Berlina">Berlina</option>
-        <option value="Tourin">Touring</option>
-        <option value="Gran Coupé">Gran Coupé</option>
-        <option value="Compacto">Compacto</option>
-        <option value="Monovolumen">Monovolumen</option>
-        <option value="Cabrio">Cabrioo</option>
-      </select>
+      <div className="filter-section">
+        <label htmlFor="inputTipo">Filtrar por tipo:</label>
+        <select id="inputTipo" onChange={handleChange}>
+          <option value="">Todos los modelos</option>
+          <option value="SUV">SUV</option>
+          <option value="Berlina">Berlina</option>
+          <option value="Touring">Touring</option>
+          <option value="Gran Coupé">Gran Coupé</option>
+          <option value="Compacto">Compacto</option>
+          <option value="Monovolumen">Monovolumen</option>
+          <option value="Cabrio">Cabrio</option>
+        </select>
+      </div>
 
-      <label className="grid">
+      <div className="grid">
         {newCoches.map((coche, index) => (
           <section className="card" key={index}>
             <img src={coche.imagenes[0]} alt={coche.nombre} />
@@ -38,7 +39,7 @@ function Filtro() {
             <p className="categoria">{coche.categoria}</p>
           </section>
         ))}
-      </label>
+      </div>
     </>
   )
 }
